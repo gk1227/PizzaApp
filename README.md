@@ -1,6 +1,6 @@
 Online pizza ordering store - **React Pizza**
 
-##How to run:
+**How to run:**
 npm start
 node server.js
 
